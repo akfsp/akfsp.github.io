@@ -6,5 +6,7 @@ Some content.
 | -------- | -------- | --------- |
 | Line 1   | Data     | more data |
 | Line 2   | ...      |
+
 ____
+
 [Home](/)
