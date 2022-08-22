@@ -2,4 +2,4 @@
 
 ## Content
 
-* [Site #2](akfsp.github.io/site2)
+* [Site #2](site2)
